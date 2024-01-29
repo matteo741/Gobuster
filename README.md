@@ -23,11 +23,12 @@ Ce projet est sous la licence MIT, celle-ci est disponible dans les fichiers du 
 
 # Fonctionalités :
 
-  - On retrouve plusieurs options :
+  - Un total de 1828 mots dans la Library !
+  - Permet le Brute Force de répertoires/fichiers sur des serveurs webs.
+  - Recherche à partir d'une adresse IP ou un URL.
 
   ![Exemple Screenshot](Images/Interface.PNG)
   
-  - Vous pouvez manipuler la stack : afficher, supprimer et dupliquer.
-  - Avec la commande 'help', afficher les commandes disponibles ainsi que les opérations.
+  - Afficher la liste des options avec la commande '-h'.
 
-![Exemple Screenshot](Images/Options.PNG)
+  ![Exemple Screenshot](Images/Interface.PNG)
