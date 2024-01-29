@@ -14,7 +14,7 @@ Pour utiliser cet outil il faut :
 
 # Exemples :
 
-![Exemple Screenshot](Images/Exemple-Add.PNG)
+![Exemple Screenshot](Images/Exemple1.PNG)
 ![Exemple Screenshot](Images/Exemple2.PNG)
 
 # License :
@@ -25,13 +25,9 @@ Ce projet est sous la licence MIT, celle-ci est disponible dans les fichiers du 
 
   - On retrouve plusieurs options :
 
-  ![Exemple Screenshot](Images/Exemple2.PNG)
+  ![Exemple Screenshot](Images/Interface.PNG)
   
   - Vous pouvez manipuler la stack : afficher, supprimer et dupliquer.
   - Avec la commande 'help', afficher les commandes disponibles ainsi que les opérations.
 
-![Exemple Screenshot](Images/Help.PNG)
-
-# Avertissements : 
-
-Les commandes sont sensibles à la casse. La commande pour faire une addition est 'add', si vous écrivez 'Add' ou encore 'ADD' il y aura une erreur !
+![Exemple Screenshot](Images/Options.PNG)
