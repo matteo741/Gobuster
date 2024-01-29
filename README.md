@@ -14,7 +14,6 @@ Pour utiliser cet outil il faut :
 
 # Exemples :
 
-![Exemple Screenshot](Images/Exemple1.PNG)
 ![Exemple Screenshot](Images/Exemple2.PNG)
 
 # License :
@@ -27,8 +26,12 @@ Ce projet est sous la licence MIT, celle-ci est disponible dans les fichiers du 
   - Permet le Brute Force de répertoires/fichiers sur des serveurs webs.
   - Recherche à partir d'une adresse IP ou un URL.
 
+  ![Exemple Screenshot](Images/Exemple1.PNG)
+
+  - Possède un Mode Silencieux permettant d'afficher que les codes HTTP 200.
+
   ![Exemple Screenshot](Images/Interface.PNG)
   
   - Afficher la liste des options avec la commande '-h'.
 
-  ![Exemple Screenshot](Images/Interface.PNG)
+  ![Exemple Screenshot](Images/Options.PNG)
